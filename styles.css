@@ -11,3 +11,9 @@ h2 {
     background-color: #ffc0cb;
     font-family: 'Cormorant Garamond', serif;
 }
+
+nav {background-color: palevioletred;}
+nav a {color: aliceblue;}
+nav {color: aliceblue;}
+
+nav a:hover {background-color: grey;}
